@@ -33,7 +33,14 @@ public class NewScript : MonoBehaviour {
     }
 
 
-
+    void NewOtherFunction()
+    {
+      int newone = 0;
+        if (newone == 0)
+        {
+            return;
+        }
+    }
 
 
 }
