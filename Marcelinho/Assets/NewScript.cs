@@ -13,4 +13,9 @@ public class NewScript : MonoBehaviour {
 	void Update () {
 		
 	}
+
+    private void Awake()
+    {
+        
+    }
 }
