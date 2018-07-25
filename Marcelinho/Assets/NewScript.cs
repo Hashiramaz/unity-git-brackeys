@@ -13,4 +13,15 @@ public class NewScript : MonoBehaviour {
 	void Update () {
 		
 	}
+
+<<<<<<< HEAD
+    void EnableComponents()
+    {
+
+=======
+    private void Awake()
+    {
+        
+>>>>>>> 08d4c896d6274a7f9574895781e6f3ceb6fc7162
+    }
 }
