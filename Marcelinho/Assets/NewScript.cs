@@ -34,6 +34,12 @@ public class NewScript : MonoBehaviour {
 
 
 
+    void NewFunction()
+    {
+
+    }
+
+
 
 
 }
