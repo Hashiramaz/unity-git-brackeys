@@ -33,7 +33,6 @@ public class NewScript : MonoBehaviour {
     }
 
 
-<<<<<<< HEAD
     void NewOtherFunction()
     {
       int newone = 0;
@@ -42,15 +41,6 @@ public class NewScript : MonoBehaviour {
             return;
         }
     }
-=======
-
-    void NewFunction()
-    {
-
-    }
-
-
->>>>>>> origin/Vinni-PC
 
 
 }
